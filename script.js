@@ -1,5 +1,5 @@
 function fibonacci(num) {
-   if (num < 0 || num > 50) {
+   if (num < 0 || num > 200) {
         return "Invalid input. Please provide a positive integer within the range [0, 50].";
     }
 
